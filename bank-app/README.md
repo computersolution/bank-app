@@ -67,7 +67,7 @@ Make sure to use jdbc:h2:mem:testdb as your jdbc url. If you intend to you use c
 define datasource properties in application.yml
 
 ```
-http://localhost:8989/bank-api/h2-console/
+http://localhost:8080/bank-api/h2-console/
 
 ```
 
